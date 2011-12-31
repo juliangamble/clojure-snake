@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for Snake -->
+
+<jnlp codebase="https://github.com/juliangamble/clojure-snake" 
+      href="https://sites.google.com/site/juliangamble/Home/snake.jnlp">
+  <information>
+    <title>Snake</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <jar href="https://sites.google.com/site/juliangamble/Home/snake.jar" />
+  </resources>
+  <application-desc main-class="examples.snake"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>

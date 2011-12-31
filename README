@@ -1,0 +1,6 @@
+This project is a fork from smake by Stuart Halloway.
+
+The point here is to add Java Web start to enable it to be demoed to a wider audience
+and promote the clojure community.
+
+https://github.com/stuarthalloway/programming-clojure/blob/master/src/examples/snake.clj
