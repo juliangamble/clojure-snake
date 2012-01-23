@@ -1,1 +1,0 @@
-jarsigner -keystore compstore -storepass sunshine -keypass sunshine -signedjar snake.jar snake-0.0.1-SNAPSHOT-standalone.jar signFiles
